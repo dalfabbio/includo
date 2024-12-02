@@ -6,7 +6,7 @@
 
 ## About the Project
 
-**incluDO** models the operative structure of professional school for migrants, focusing on interaction between migrants, companies and professional courses.
+**incluDO** models the core operative structure of a professional school for migrants, focusing on interaction between migrants, companies and professional courses.
 
 ## Functionalities
 
@@ -33,29 +33,20 @@ To run this project locally, first you need [to install TypeScript], follow thes
    cd includo
    ```
 
-3. **Install the required dependencies**: Make sure you have `npm` installed, then run:
-
+3. **Compile the TypeScript code**:
    ```bash
-   npm install
+   tsc includo.ts
    ```
-
-4. **To start and change the application**:
+4. **Run the application: Use Node.js to execute the compiled JavaScript file**:
    ```bash
-   npm run dev
-   ```
-5. **To build the application**:
-   ```bash
-   npm run build
+   node includo.js
    ```
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
 
-- **HTML**: For structuring the content on the web page.
-- **CSS & Tailwind CSS**: For styling and creating a responsive design.
-- **JavaScript**: For interactive elements and functionalities.
-- **Open Library API**: To fetch book data.
-- **Node.js and npm**: For managing dependencies and running local development servers.
+- **TypeScript** For strong typing and structured code.
+- **Node.js**: To run the compiled JavaScript files.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
@@ -73,7 +64,7 @@ Contributions are welcome! If you have suggestions for improvements or want to r
 
 Feel free to reach me if you have any advice or you want to collaborate!
 
-[![linkedin](./src/assets/linkedin.png)][linkedinUrl]
+[![linkedin](https://raw.githubusercontent.com/dalfabbio/discoveryLibrary/refs/heads/main/src/assets/linkedin.png)][linkedinUrl]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
