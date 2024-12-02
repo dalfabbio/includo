@@ -19,7 +19,7 @@
 
 ## Installation
 
-To run this project locally, first you need [to install TypeScript], follow these steps:
+To run this project locally, first you need [to install TypeScript], then follow these steps:
 
 1. **Clone the repository**:
 
@@ -37,7 +37,7 @@ To run this project locally, first you need [to install TypeScript], follow thes
    ```bash
    tsc includo.ts
    ```
-4. **Run the application: Use Node.js to execute the compiled JavaScript file**:
+4. **Run the application** use Node.js to execute the compiled JavaScript file:
    ```bash
    node includo.js
    ```
@@ -51,7 +51,7 @@ To run this project locally, first you need [to install TypeScript], follow thes
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or want to report a bug, please follow these steps:
+Contributions are welcome! If you have suggestions for improvements, please follow these steps:
 
 1. Fork the repository.
 2. Create your feature branch (`git checkout -b feature/YourFeature`).
