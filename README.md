@@ -7,6 +7,7 @@
 ## About the Project
 
 **incluDO** models the core operative structure of a professional school for migrants, focusing on interaction between migrants, companies and professional courses.
+This project is the final assignement of the TypeScript course of [Start To Impact].
 
 ## Functionalities
 
@@ -70,6 +71,7 @@ Feel free to reach me if you have any advice or you want to collaborate!
 
 <!-- MARKDOWN LINKS -->
 
+[Start To Impact]: https://www.start2impact.it/
 [linkedinUrl]: https://www.linkedin.com/in/alessandro-fabbian/
 [SEE A LIVE DEMO]: https://codepen.io/Alessandro-Fabbian-the-builder/pen/WbevWoM
 [to install TypeScript]: https://www.typescriptlang.org/download/
